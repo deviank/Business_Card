@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+ }
+ 
+ #background 
+{ 
+     left: 0px; 
+     top: 0px; 
+     position: relative; 
+     margin-left: auto; 
+     margin-right: auto; 
+     width: 1050px;
+     height: 600px; 
+     overflow: hidden;
+     z-index:0;
+    } 
+
+ #Background 
+{ 
+     left: 0px; 
+     top: 0px; 
+     position: absolute; 
+     width: 1050px;
+     height: 600px;
+     z-index:1;
+} 
+
+ #images2 
+{ 
+     left: 0px; 
+     top: 0px; 
+     position: absolute; 
+     width: 1050px;
+     height: 600px;
+     z-index:2;
+} 
+
+ #Devian 
+{ 
+     left: 10px; 
+     top: 14px; 
+     position: absolute; 
+     width: 299px;
+     height: 385px;
+     z-index:3;
+} 
+
+ #SoftwareDeveloper 
+{ 
+     left: 563px; 
+     top: 523px; 
+     position: absolute; 
+     width: 342px;
+     height: 64px;
+     z-index:4;
+} 
+
+ #DevianKappSoftwareDe 
+{ 
+     left: 10px; 
+     top: 416px; 
+     position: absolute; 
+     width: 300px;
+     height: 160px;
+     z-index:5;
+} 
+
+ #layer_6 
+{ 
+     left: 431px; 
+     top: 134px; 
+     position: absolute; 
+     width: 456px;
+     height: 250px;
+     z-index:6;
+} 
+
+ #DigitalSolutionsInc 
+{ 
+     left: 392px; 
+     top: 7px; 
+     position: absolute; 
+     width: 545px;
+     height: 71px;
+     z-index:7;
+} 
